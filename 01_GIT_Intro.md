@@ -19,4 +19,4 @@ is the virtual space where the changes "go" when we `git add`. It allows the pre
 
 
 ## Special git files
-- .gitignore = file in the main folder which contains a list of files that are ignored by git (so they're not affected by `git add`s and `git status`es). It can contain patterns (`*.pyc, /folde/, /folder,`) and paths to files.
+- .gitignore = file in the main folder which contains a list of files that are ignored by git (so they're not affected by `git add`s and `git status`es). It can contain patterns (`*.pyc, /folder/, /folder,`) and paths to files.
